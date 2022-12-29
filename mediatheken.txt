@@ -1,0 +1,4 @@
+#ARD
+itv.ard.de
+image.ard.de
+ardmediathek.de
