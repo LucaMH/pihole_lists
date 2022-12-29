@@ -2,3 +2,7 @@
 itv.ard.de
 image.ard.de
 ardmediathek.de
+
+#ZDF
+zdf.de
+tracksrv.zdf.de
