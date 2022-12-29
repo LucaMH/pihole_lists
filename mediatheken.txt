@@ -3,6 +3,10 @@ itv.ard.de
 image.ard.de
 ardmediathek.de
 www.ardmediathek.de
+api.ardmediathek.de
+images.ardmediathek.de
+accounts.ard.de
+
 
 #ZDF
 zdf.de
